@@ -61,7 +61,7 @@ namespace AntispoofingFunction
             return encoder;
         }
 
-        [FunctionName("Thumbnail")]
+        [FunctionName("Thumbnail2")]
         public static async Task Run(
             [EventGridTrigger] EventGridEvent eventGridEvent,
             [Blob("{data.url}", FileAccess.Read)] Stream input,

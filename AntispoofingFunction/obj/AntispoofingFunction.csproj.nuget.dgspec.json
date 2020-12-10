@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows\\source\\repos\\AntispoofingFunction\\AntispoofingFunction\\AntispoofingFunction.csproj": {}
+    "D:\\antispoofing\\AntispoofingFunction\\AntispoofingFunction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows\\source\\repos\\AntispoofingFunction\\AntispoofingFunction\\AntispoofingFunction.csproj": {
+    "D:\\antispoofing\\AntispoofingFunction\\AntispoofingFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows\\source\\repos\\AntispoofingFunction\\AntispoofingFunction\\AntispoofingFunction.csproj",
+        "projectUniqueName": "D:\\antispoofing\\AntispoofingFunction\\AntispoofingFunction.csproj",
         "projectName": "AntispoofingFunction",
-        "projectPath": "C:\\Users\\Windows\\source\\repos\\AntispoofingFunction\\AntispoofingFunction\\AntispoofingFunction.csproj",
+        "projectPath": "D:\\antispoofing\\AntispoofingFunction\\AntispoofingFunction.csproj",
         "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows\\source\\repos\\AntispoofingFunction\\AntispoofingFunction\\obj\\",
+        "outputPath": "D:\\antispoofing\\AntispoofingFunction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
